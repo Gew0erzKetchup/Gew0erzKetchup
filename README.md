@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
-
 # 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gew0erzKetchup&show_icons=true&theme=dark)
